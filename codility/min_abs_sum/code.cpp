@@ -54,7 +54,9 @@ int main(int argc, char const *argv[])
 	cin >> n;
 	vector<int> A(n);
 	for(int i = 0; i < n; i++){
+        char x;
 		cin >> A[i];
+        cin >> x;
 	}
 	cout << solution(A) << endl;
 	return 0;
