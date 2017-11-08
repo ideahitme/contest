@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "__split_buffer": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "iterator": "cpp",
+    "string": "cpp",
+    "utility": "cpp",
+    "vector": "cpp"
+  }
+}
