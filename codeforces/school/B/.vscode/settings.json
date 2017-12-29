@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "ios": "cpp",
+    "iosfwd": "cpp",
+    "__tree": "cpp",
+    "algorithm": "cpp",
+    "set": "cpp",
+    "iterator": "cpp",
+    "vector": "cpp"
+  }
+}
